@@ -11,7 +11,7 @@
 
 [Análise e Desenvolvimento de Sistemas](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas) na [Universidade Estácio de Sá](https://estacio.br/)
 
-👩‍💻 Atualmente eu estudante procurando estágio em TI
+👩‍💻 Atualmente sou estudante procurando estágio em TI
 
 🔎 Também sou curioso na área de ciber segurança
 
