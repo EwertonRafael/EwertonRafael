@@ -39,15 +39,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
-### na minha lista para futuros cursos.
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Cursos realizados 🤓
 
-<!-- (Aqui você pode adicionar cursos que você já fez) -->
 
 ![Programa NExT-CESAR SCHOOL](https://img.shields.io/badge/Programa%20NExT-CESARSCHOOL-%23121011.svg?style=for-the-badge&logoColor=%2361DAFB)
 
@@ -62,9 +59,7 @@
 ![MySQL-curso em video](https://img.shields.io/badge/MySQL-curso%20em%20video-%23121011.svg?style=for-the-badge&logoColor=%2361DAFB)
 
 ![PHP-curso em video](https://img.shields.io/badge/PHP-curso%20em%20video-%23121011.svg?style=for-the-badge&logoColor=%2361DAFB)
-<!--
-Substitua o usuário lbguilherme pelo seu usuário no GitHub.
--->
+
 
 ### GitHub Stats ⚡
 <div>
