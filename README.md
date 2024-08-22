@@ -7,8 +7,6 @@
 
 🎓 Eu estudo:
 
-[Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software) na [Cubos Academy](https://cubos.academy/)
-
 [Análise e Desenvolvimento de Sistemas](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas) na [Universidade Estácio de Sá](https://estacio.br/)
 
 👩‍💻 Atualmente sou estudante procurando estágio em TI
