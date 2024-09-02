@@ -52,12 +52,6 @@
 
 ![trilha fundamentar-ROCKETSEAT](https://img.shields.io/badge/trilha%20fundamentar-ROCKETSEAT-%23121011.svg?style=for-the-badge&logoColor=%2361DAFB)
 
-![JavaScript-curso em video](https://img.shields.io/badge/JavaScript-curso%20em%20video-%23121011.svg?style=for-the-badge&logoColor=%2361DAFB)
-
-![MySQL-curso em video](https://img.shields.io/badge/MySQL-curso%20em%20video-%23121011.svg?style=for-the-badge&logoColor=%2361DAFB)
-
-![PHP-curso em video](https://img.shields.io/badge/PHP-curso%20em%20video-%23121011.svg?style=for-the-badge&logoColor=%2361DAFB)
-
 
 ### GitHub Stats ⚡
 <div>
