@@ -43,6 +43,7 @@ Análise e Desenvolvimento de Sistemas na [Universidade Estácio de Sá](https:/
 
 ### Cursos realizados 🤓
 
+![dev-backend](https://img.shields.io/badge/backend-Cubos%20Academy-%23121011.svg?style=for-the-badge&logoColor=%2361DAFB)
 
 ![Programa NExT-CESAR SCHOOL](https://img.shields.io/badge/Programa%20NExT-CESARSCHOOL-%23121011.svg?style=for-the-badge&logoColor=%2361DAFB)
 
