@@ -3,11 +3,13 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor Back-End
+💻 Sou um desenvolvedor Full Stack
 
 🎓 Eu estudo:
 
-[Análise e Desenvolvimento de Sistemas](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas) na [Universidade Estácio de Sá](https://estacio.br/)
+Trilha Frontend-React na [Softex-Pernambuco](https://fap.softexrecife.org.br/)
+
+Análise e Desenvolvimento de Sistemas na [Universidade Estácio de Sá](https://estacio.br/)
 
 👩‍💻 Atualmente sou estudante procurando estágio em TI
 
@@ -24,6 +26,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%23F05033.svg?style=flat-square&logo=SpringBoot&logoColor=white)
+<br>
+<br>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
