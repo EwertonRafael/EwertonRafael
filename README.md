@@ -7,6 +7,8 @@ Trilha Frontend-React na [Softex-Pernambuco](https://fap.softexrecife.org.br/)
 
 Análise e Desenvolvimento de Sistemas na [Universidade Estácio de Sá](https://estacio.br/)
 
+## Certificado [Cloud Pratitioner](https://www.credly.com/badges/cea6738d-f9be-4fa4-9739-40dc83475c37/linked_in?t=sknmu4) da AWS
+
 👩‍💻 Atualmente sou estudante procurando estágio em TI
 
 🔎 Também sou curioso na área de ciber segurança
