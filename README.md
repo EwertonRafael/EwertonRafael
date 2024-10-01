@@ -1,8 +1,4 @@
 
-### Oi, me chamo Ewerton 👋
-
-### Sobre mim
-
 💻 Sou um desenvolvedor Full Stack
 
 🎓 Eu estudo:
